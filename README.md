@@ -13,7 +13,8 @@
 ## Introduction
 
 > Making websites with python is so much fun easy and professional , I've been motivatied by too much people to dig into it especially my brother who guides me a lot in learning python , pygame , and now Django 
-I have bought a book in Udemy Which contains courses to learn Django
+I have bought a book in Udemy Which contains courses to learn Django  
+
 **The Course named : The Ultimate beginners guide to django website developement -- By Nick Walter**
 
 ## Getting Started
@@ -28,7 +29,8 @@ What things you need to install the software and how to install them
 1. You need to install Django in your OS (Linux,Mac,Windows ) -- Visit the [link!](https://www.djangoproject.com/) for downloading Django for windows
 In linux ubuntu/mint/etc .. type this : 
 
-`sudo apt-get update` 
+`sudo apt-get update`  
+
 `sudo apt-get install python-django`
 
 
