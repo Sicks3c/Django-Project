@@ -1,0 +1,21 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Django Project</title>
+</head>
+<body>
+
+<h1>Pig Latin Translator</h1>
+<form action="{% url 'translate' %}">
+<input type="text" name="originaltext" />
+
+<br />
+<input type="submit" value="Translate Now" />
+<br />
+<br />
+<br />
+
+
+<a href="{% url 'about' %}">About</a>
+</body>
+</html> 
